@@ -40,14 +40,6 @@ Here is a screenshot of the dashboard created:
 ![Picture5](https://github.com/user-attachments/assets/160a140d-f2b0-4027-8422-5cf0e068c065)
 
 
-![Picture8](https://github.com/user-attachments/assets/987ea4c4-73f6-4ebb-9f7f-5ccd78b1acb9)
-
-![Picture9](https://github.com/user-attachments/assets/427ffd42-97ac-49c6-a12f-5c7bb2496d3c)
-![Picture12](https://github.com/user-attachments/assets/f939f64a-c38f-4985-943d-8bdebf8434b3)
-
-![Picture13](https://github.com/user-attachments/assets/be425a5f-374d-4dac-9eba-ec26edb6fa00)
-
-![Picture14](https://github.com/user-attachments/assets/79dc77d0-3723-4d3f-b8f1-a8fcc7b6a395)
 
 
 
